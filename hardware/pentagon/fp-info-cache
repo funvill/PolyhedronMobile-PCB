@@ -1,4 +1,4 @@
-23150667813014781
+23150667813054265
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87220,13 +87220,6 @@ capacitor
 2
 2
 SWS-Library
-Pentagon-edge
-
-
-0
-13
-8
-SWS-Library
 SWS-TestPoint-Bug-SM-10mm
 
 
@@ -87268,6 +87261,13 @@ or_jumper
 0
 3
 3
+SWS-Library
+pentagon-corner
+
+
+0
+13
+8
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
