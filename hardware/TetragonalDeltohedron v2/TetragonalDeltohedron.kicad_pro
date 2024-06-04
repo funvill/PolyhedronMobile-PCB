@@ -428,7 +428,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "__sws_jlpcb"
+    ]
   },
   "meta": {
     "filename": "TetragonalDeltohedron.kicad_pro",
@@ -605,7 +607,7 @@
   },
   "sheets": [
     [
-      "b14533ba-7f16-485f-873b-4f9dc7f35f4c",
+      "bbdb396b-80d4-4a52-8a5c-2e1654a37e38",
       "Root"
     ]
   ],
