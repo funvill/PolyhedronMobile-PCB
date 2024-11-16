@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SK9822-EC20")(type "KiCad")(uri "${KIPRJMOD}/parts/SK9822-EC20.kicad_sym")(options "")(descr ""))
+  (lib (name "XIAO")(type "KiCad")(uri "${KIPRJMOD}/parts/XIAO.kicad_sym")(options "")(descr ""))
+  (lib (name "XL-1615RGBC-WS2812B")(type "KiCad")(uri "${KIPRJMOD}/parts/XL-1615RGBC-WS2812B.kicad_sym")(options "")(descr ""))
+  (lib (name "S2B-PH-SM4-TB")(type "KiCad")(uri "${KIPRJMOD}/parts/S2B-PH-SM4-TB.kicad_sym")(options "")(descr ""))
+)

@@ -1,4 +1,0 @@
-
-(fp_lib_table
-  (lib (name "tetragonal-deltohedron")(type KiCad)(uri "$(KIPRJMOD)/tetragonal-deltohedron.pretty")(options "")(descr ""))
-)
