@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 793.7007874015749 1122.5196850393702"
+   width="793.7007874015749"
+   height="1122.5196850393702"
+   version="1.1"
+   id="svg46"
+   sodipodi:docname="PentagrammicDipyramidHalf.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview48"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.69397449"
+     inkscape:cx="460.39157"
+     inkscape:cy="750.02757"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g44" />
+  <desc
+     id="desc2">PentagrammicDipyramidHalf.dxf - scale = 25.4, origin = (0.0, 0.0), method = file</desc>
+  <defs
+     id="defs16">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path4" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path7" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path11" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g44">
+    <g
+       id="g920"
+       transform="matrix(0.03935739,0,0,0.03935739,366.24088,736.82224)">
+      <path
+         d="M 0,-8197.3561 V 1122.5197 L 2197.0059,-3537.4182 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path18" />
+      <path
+         d="M -2197.0059,-3537.4182 0,-8197.3561 v 9319.8758 z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path20" />
+      <path
+         d="M -2197.0059,-3537.4182 -7189.8558,-4807.578 0,1122.5197 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path22" />
+      <path
+         d="M -4992.8499,-147.64011 -7189.8558,-4807.578 0,1122.5197 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path24" />
+      <path
+         d="M -4156.7457,4166.0902 -4453.6461,9309.4068 0,1122.5197 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path26" />
+      <path
+         d="M -4453.6461,9309.4068 0,1122.5197 -296.90042,6265.8363 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path28" />
+      <path
+         d="M -9149.5956,2895.9304 0,1122.5197 -4156.7457,4166.0902 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path30" />
+      <path
+         d="M -4992.8499,-147.64011 -9149.5956,2895.9304 0,1122.5197 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path32" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:10"
+         d="M 0,1122.52 -296.9,6265.84"
+         id="path34" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:10"
+         d="M -296.9,6265.84 3482.02,9767.5"
+         id="path36" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:10"
+         d="M 3482.02,9767.5 0,1122.52"
+         id="path38" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:10"
+         d="M 3778.92,4624.18 3482.02,9767.5"
+         id="path40" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:10"
+         d="M 0,1122.52 3778.92,4624.18"
+         id="path42" />
+    </g>
+    <g
+       id="g920-4"
+       transform="matrix(-0.01740352,0.03530044,-0.03530044,-0.01740352,417.88424,391.76343)">
+      <path
+         d="M 0,-8197.3561 V 1122.5197 L 2197.0059,-3537.4182 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path18-0" />
+      <path
+         d="M -2197.0059,-3537.4182 0,-8197.3561 v 9319.8758 z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path20-5" />
+      <path
+         d="M -2197.0059,-3537.4182 -7189.8558,-4807.578 0,1122.5197 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path22-9" />
+      <path
+         d="M -4992.8499,-147.64011 -7189.8558,-4807.578 0,1122.5197 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path24-0" />
+      <path
+         d="M -4156.7457,4166.0902 -4453.6461,9309.4068 0,1122.5197 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path26-4" />
+      <path
+         d="M -4453.6461,9309.4068 0,1122.5197 -296.90042,6265.8363 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path28-5" />
+      <path
+         d="M -9149.5956,2895.9304 0,1122.5197 -4156.7457,4166.0902 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path30-2" />
+      <path
+         d="M -4992.8499,-147.64011 -9149.5956,2895.9304 0,1122.5197 Z"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         id="path32-2" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:10"
+         d="M 0,1122.52 -296.9,6265.84"
+         id="path34-8" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:10"
+         d="M -296.9,6265.84 3482.02,9767.5"
+         id="path36-2" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:10"
+         d="M 3482.02,9767.5 0,1122.52"
+         id="path38-8" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:10"
+         d="M 3778.92,4624.18 3482.02,9767.5"
+         id="path40-7" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:10"
+         d="M 0,1122.52 3778.92,4624.18"
+         id="path42-1" />
+    </g>
+  </g>
+</svg>
