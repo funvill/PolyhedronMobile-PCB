@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 10000 10000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="EdgeCuts">
+        <g id="g857">
+            <path id="path18" d="M5626.7,6588.27L5626.7,710.434" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:10px;"/>
+            <path id="path20" d="M5626.7,710.434L369.412,3339.09" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:10px;"/>
+            <path id="path22" d="M369.412,3339.09L369.412,9216.93" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:10px;"/>
+            <path id="path24" d="M369.412,9216.93L5626.7,6588.27" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:10px;"/>
+        </g>
+    </g>
+</svg>

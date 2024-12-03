@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "C25v-1uF-C52923")(type "KiCad")(uri "${KIPRJMOD}/parts/C25v-1uF-C52923.pretty")(options "")(descr ""))
+  (lib (name "pin")(type "KiCad")(uri "${KIPRJMOD}/parts/pin.pretty")(options "")(descr ""))
+)
