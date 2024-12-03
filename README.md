@@ -2,8 +2,6 @@
 
 ## Rhombic Dodecahedron
 
-https://en.wikipedia.org/wiki/Rhombic_dodecahedron, http://dmccooey.com/polyhedra/RhombicDodecahedron.html 
-
 - Faces: `12 Rhombus`
 - Acute angle: `70.53`
 - Scale: `70mm`
@@ -11,16 +9,24 @@ https://en.wikipedia.org/wiki/Rhombic_dodecahedron, http://dmccooey.com/polyhedr
 - Short: `scale * (3 * sqrt(2) / 4)`
 - EdgeLength: `scale * (3 * sqrt(6) / 8)`
 
-![Rhombic Dodecahedron pcb Front](https://github.com/funvill/PolyhedronMobile-PCB/blob/main/RhombicDodecahedron/back.png?raw=true)
+- https://en.wikipedia.org/wiki/Rhombic_dodecahedron
+- http://dmccooey.com/polyhedra/RhombicDodecahedron.html
 
-![Rhombic Dodecahedron pcb Back](https://github.com/funvill/PolyhedronMobile-PCB/blob/main/RhombicDodecahedron/front.png?raw=true)
+![Rhombic Dodecahedron pcb Front](https://github.com/funvill/PolyhedronMobile-PCB/blob/main/RhombicDodecahedron/front.png?raw=true)
+
+![Rhombic Dodecahedron pcb Back](https://github.com/funvill/PolyhedronMobile-PCB/blob/main/RhombicDodecahedron/back.png?raw=true)
 
 ## Tetragonal Trapezohedron
 
 [Tetragonal Trapezohedron Retrospective](https://blog.abluestar.com/tetragonal-trapezohedron-retrospective/)
 
+- Faces: `8 kites`
 
+- https://en.wikipedia.org/wiki/Tetragonal_trapezohedron
 
+![TetragonalTrapezohedron pcb Front](https://github.com/funvill/PolyhedronMobile-PCB/blob/main/TetragonalTrapezohedron/TetragonalDeltohedron-front.png?raw=true)
+
+![TetragonalTrapezohedron pcb Back](https://github.com/funvill/PolyhedronMobile-PCB/blob/main/TetragonalTrapezohedron/TetragonalDeltohedron-back.png?raw=true)
 
 ## Dodecahedron-pcb
 
